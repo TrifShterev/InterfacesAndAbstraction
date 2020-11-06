@@ -5,11 +5,13 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shapes", "Shapes\Shapes.csproj", "{79A4185E-70FC-425E-A6DC-22E6495D60DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonInfo", "PersonInfo\PersonInfo.csproj", "{CC1452D9-A0FF-4BD4-A0D8-25D76A8A2861}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonInfo", "PersonInfo\PersonInfo.csproj", "{CC1452D9-A0FF-4BD4-A0D8-25D76A8A2861}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telephony", "Telephony\Telephony.csproj", "{8487935F-8775-4517-8C81-B86FF743ADF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Telephony", "Telephony\Telephony.csproj", "{8487935F-8775-4517-8C81-B86FF743ADF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorderControl", "BorderControl\BorderControl.csproj", "{52DC1CCF-7B1A-429C-8DF6-6BB4A4E40FB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BorderControl", "BorderControl\BorderControl.csproj", "{52DC1CCF-7B1A-429C-8DF6-6BB4A4E40FB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilitaryElite", "MilitaryElite\MilitaryElite.csproj", "{18347516-EC29-4243-8119-5E3C50497453}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{52DC1CCF-7B1A-429C-8DF6-6BB4A4E40FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52DC1CCF-7B1A-429C-8DF6-6BB4A4E40FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52DC1CCF-7B1A-429C-8DF6-6BB4A4E40FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18347516-EC29-4243-8119-5E3C50497453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18347516-EC29-4243-8119-5E3C50497453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18347516-EC29-4243-8119-5E3C50497453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18347516-EC29-4243-8119-5E3C50497453}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
